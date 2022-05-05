@@ -1,1 +1,1 @@
-# AI-
+# AI-basic (CNU)
